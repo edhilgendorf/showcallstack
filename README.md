@@ -23,7 +23,7 @@ This program...
         varC = 99
         showcallstack()
 
-    spam = 'SPAM!
+    spam = 'SPAM!'
     a()
 
 ...outputs this:
